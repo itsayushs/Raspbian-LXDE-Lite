@@ -35,4 +35,26 @@ iface wlan0 inet dhcp
 apt-get update
 apt-get upgrade
 ```
-
+- expand your file system use
+```
+raspi-config
+goto to Advanced Options > Expand Filesystem > Yes > Reboot
+```
+- install Display Server and Login Manager
+```
+apt-get install --no-install-recommends xserver-xorg
+apt-get install --no-install-recommends xinit
+```
+- install LXDE GUI
+```
+apt-get install lxde-core lxappearance
+```
+- install LightDM *optional*
+```
+sudo apt-get install lightdm
+```
+- start display server
+```
+startx
+```
+- Wola! GUI is Ready 
