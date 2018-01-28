@@ -59,3 +59,4 @@ sudo apt-get install lightdm
 startx
 ```
 - Wola! GUI is Ready 
+- Use Win32DiskImager to save your .img to clone and distribute.
