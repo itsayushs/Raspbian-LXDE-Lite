@@ -3,8 +3,8 @@ Custom Pre-Build Image File Of Raspbian Lite With GUI [LXDE] and Important URL's
 
 ## Important links:
 ### To Set-Up and Edit Your WiFi Access Points use this [link](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-3-network-setup/setting-up-wifi-with-occidentalis).
-### To insatll any other GUI use this [link](https://www.raspberrypi.org/forums/viewtopic.php?t=133691)
-### To Download my Pre Build Image [link]()
+### To Install any other GUI Environment use this [link](https://www.raspberrypi.org/forums/viewtopic.php?t=133691)
+### To Download My Pre Build Image [link]()
 
 ## Steps to Create Your Own .img file 
 
